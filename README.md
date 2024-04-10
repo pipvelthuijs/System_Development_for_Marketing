@@ -1,4 +1,4 @@
-READ ME file 1M MovieLens, by Pip Velthuijs
+**READ ME**
 
 **Overview**
 This repository contains code for collaborative filtering using item-kNN and SVD algorithms. These algorithms are applied to the MovieLens dataset, which was collected by the GroupLens Research Project at the University of Minnesota. The dataset consists of 1,000,209 anonymous ratings of approximately 3,900 movies made by 6,040 MovieLens users who joined MovieLens in 2000.
